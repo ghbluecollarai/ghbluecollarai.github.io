@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.bluecollartradesai.app",
+      "sha256_cert_fingerprints": [
+        "57:D2:DD:65:AC:A2:92:39:D7:DB:5B:BC:33:37:DB:78:EF:17:C8:51:48:70:17:EC:BC:E9:0D:50:55:A2:C5:FE"
+      ]
+    }
+  }
+]
